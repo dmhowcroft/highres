@@ -7,7 +7,8 @@ name = "pypi"
 flask = "*"
 python-dotenv = "*"
 flask-sqlalchemy = "*"
-"psycopg2" = "*"
+jwt = "*"
+psycopg2-binary = "==2.8.4"
 
 [dev-packages]
 pylint = "*"
